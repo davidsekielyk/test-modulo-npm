@@ -2,6 +2,7 @@
 Just a "Hello World" library :)
 ---
 [![Build Status](https://travis-ci.org/davidsekielyk/test-modulo-npm.svg?branch=master)](https://travis-ci.org/davidsekielyk/test-modulo-npm)
+[![dependencies Status](https://david-dm.org/davidsekielyk/test-modulo-npm.svg)](https://david-dm.org/davidsekielyk/test-modulo-npm)
 ## Installation
 npm install test-modulo-npm --save
 ## Usage

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidsekielyk/test-modulo-npm/issues"
   },
-  "homepage": "https://github.com/davidsekielyk/test-modulo-npm#readme"
+  "homepage": "https://github.com/davidsekielyk/test-modulo-npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
