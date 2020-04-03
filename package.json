@@ -1,10 +1,11 @@
 {
   "name": "test-modulo-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test get a random",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/davidsekielyk/test-modulo-npm#readme",
   "dependencies": {
     "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "standard-version": "^7.1.0"
   }
 }
