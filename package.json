@@ -1,0 +1,19 @@
+{
+  "name": "test-modulo-npm",
+  "version": "1.0.0",
+  "description": "Test get a random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsekielyk/test-modulo-npm.git"
+  },
+  "author": "David Sekielyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidsekielyk/test-modulo-npm/issues"
+  },
+  "homepage": "https://github.com/davidsekielyk/test-modulo-npm#readme"
+}
