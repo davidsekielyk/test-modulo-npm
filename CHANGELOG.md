@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/davidsekielyk/test-modulo-npm/compare/v1.0.3...v1.1.0) (2020-04-03)
+
+
+### Features
+
+* updated travis with deploy configuration ([3dc5f9c](https://github.com/davidsekielyk/test-modulo-npm/commit/3dc5f9c139a6f99f895bfe24a4822f21a269ad8a))
+
 ### [1.0.3](https://github.com/davidsekielyk/test-modulo-npm/compare/v1.0.2...v1.0.3) (2020-04-03)
 
 
